@@ -2,3 +2,6 @@
 
 Experimenting with React
 
+Components:
+* Emoji
+* Datepicker
