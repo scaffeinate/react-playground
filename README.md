@@ -1,2 +1,4 @@
-# react-playground
-React playground
+# React Playground
+
+Experimenting with React
+
